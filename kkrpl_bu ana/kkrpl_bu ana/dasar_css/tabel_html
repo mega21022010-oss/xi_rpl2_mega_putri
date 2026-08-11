@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>Pengaturan Tabel CSS</title>
+   <link rell="stylesheet" type="text/css" href="table_style.css">
+</head>
+</body>
+     <table width="468" border="0" cellpading="5" cellpacing="0"
+        <tr>
+            <th width="112" >Nama Computer</th>
+            <th width="91" >Prossesor</th>
+            <th width="96" >Ram</th>
+            <th width="137" >system operasi</th>
+        </tr>
+        <tr>
+            <td>clnt-1</td>
+            <td>ip 4 1,8 ghz</td>
+            <td>10 gb</td>
+            <td>redhat linux</td>
+        </tr>
+        <tr>
+            <td>clnt-2</td>
+            <td>ip 2 ghz</td>
+            <td>6 gb</td>
+            <td>mandrake linux</td>
+        </tr>
+        <tr>
+            <td>clnt-2</td>
+            <td>xp 2000+ </td>
+            <td>20 gb</td>
+            <td>windows</td>
+        </tr>
+    </table>
+</body>
+</html>
